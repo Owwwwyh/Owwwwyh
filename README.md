@@ -1,11 +1,12 @@
 ### Hi there 👋,My name is Ow Yee Hao
-I am currently studying software engineering at Universiti Teknologi Malaysia.
+<br>I am currently studying software engineering at Universiti Teknologi Malaysia.<br>
 
 
-🌱 I’m currently learning C++ and trying to master it....
-📫 How to reach me: +60127259262 
+<br>🌱 I’m currently learning C++ and trying to master it....<br>
+<br>📫 How to reach me: +60127259262 
                     owyeehao0919@gmail.com / yeehao.ow@graduate.utm.my
-😄 Pronouns: Ow but not Owl
+                  <br>
+<br>😄 Pronouns: Ow but not Owl<br>
  
 
 <!--
