@@ -6,7 +6,6 @@
 ## Skills
 -2 years C++ programming experience<br>
 -Basics in Python,Javascript,HTML<br>
-<img src= "https://www.pngwing.com/en/free-png-dqlwx">
 
 ## Experience
 I passed my Pre Contact for Life Insurance Agents and Investments(PCIL)Certificate in 2022 and started my agent career from that time.<br>
