@@ -12,11 +12,14 @@
 <br>😄 Pronouns: Ow but not Owl<br>
 ## Educational Background
 <br> **~Primary Schools:** <br>
-SJK(C)Chong Eng,Kluang,Johor.
+SJK(C)Chong Eng, Kluang Johor.
+
 <br> **~Secondary Schools:** <br>
-SMK Jalan Mengkibol,Kluang,Johor.
+SMK Jalan Mengkibol, Kluang Johor.
+
 <br> **~Foundation** <br>
 UTMSPACE,SKUDAI
+
 <br> **~Bachelor Degree:** <br>
 SOFTWARE ENGINEERING,UTM,SKUDAI
 
