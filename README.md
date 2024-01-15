@@ -4,12 +4,12 @@
 <br>I am currently studying software engineering at Universiti Teknologi Malaysia.<br>
 
 ## Experience
-<br>Insurance Agent under GREAT EASTERN LIFE INSURANCE <br>
+Insurance Agent under GREAT EASTERN LIFE INSURANCE <br>
 (16/06/22 - Present)<br>
--Promoting and selling insurance to customers <br>
+<br>-Promoting and selling insurance to customers <br>
 
 ## LANGUAGE
-<br>Bahasa Mandarin (native), Bahasa Melayu (fluent), English (fluent) <br>
+Bahasa Mandarin (native), Bahasa Melayu (fluent), English (fluent) <br>
 
 ## Educational Background
 <br> **~Primary Schools:** <br>
