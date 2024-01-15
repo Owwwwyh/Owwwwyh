@@ -6,7 +6,7 @@
 ## Skills
 -2 years C++ programming experience<br>
 -Basics in Python,Javascript,HTML<br>
-
+<a href="https://emoji.gg/emoji/7649-python-icon"><img src="https://cdn3.emoji.gg/emojis/7649-python-icon.png" width="64px" height="64px" alt="Python_Icon"></a>
 ## Experience
 I passed my Pre Contact for Life Insurance Agents and Investments(PCIL)Certificate in 2022 and started my agent career from that time.<br>
 Insurance Agent under GREAT EASTERN LIFE INSURANCE <br>
