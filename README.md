@@ -6,7 +6,7 @@
 ## Experience
 <br>Insurance Agent under GREAT EASTERN LIFE INSURANCE <br>
 (16/06/22 - Present)<br>
-Promoting and selling insurance to customers <br>
+-Promoting and selling insurance to customers <br>
 
 ## LANGUAGE
 <br>Bahasa Mandarin (native), Bahasa Melayu (fluent), English (fluent) <br>
