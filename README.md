@@ -1,4 +1,7 @@
 ### Hi there 👋,My name is Ow Yee Hao
+<br>BIRTHDAY: 19.09.2004<br>
+<br>HOMETOWN:KLUANG,JOHOR.<br>
+
 <br>I am currently studying software engineering at Universiti Teknologi Malaysia.<br>
 
 
@@ -7,7 +10,15 @@
                     owyeehao0919@gmail.com / yeehao.ow@graduate.utm.my
                   <br>
 <br>😄 Pronouns: Ow but not Owl<br>
- 
+## Educational Background
+<br> **~Primary Schools:** <br>
+SJK(C)Chong Eng,Kluang,Johor.
+<br> **~Secondary Schools:** <br>
+SMK Jalan Mengkibol,Kluang,Johor.
+<br> **~Foundation** <br>
+UTMSPACE,SKUDAI
+<br> **~Bachelor Degree:** <br>
+SOFTWARE ENGINEERING,UTM,SKUDAI
 
 <!--
 **Owwwwyh/Owwwwyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
