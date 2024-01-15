@@ -1,4 +1,4 @@
-### Hi there 👋,My name is Ow Yee Hao
+### Hi there <a href="https://emoji.gg/emoji/wavegif_1860"><img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="64px" height="64px" alt="wavegif"></a>,My name is Ow Yee Hao
 <br>BIRTHDAY: 19.09.2004<br>
 <br>HOMETOWN:KLUANG,JOHOR.<br>
 <br>I am currently studying software engineering at Universiti Teknologi Malaysia.<br>
