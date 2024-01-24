@@ -58,7 +58,7 @@ Currently pursuing a Bachelor of Software Engineering (Honours) at UTM, I'm dedi
 
 ### All my assignment is in my resporitors,CHECK IT OUT !!!<a href="https://emoji.gg/emoji/6691-demonslayer-kyojuro2"><img src="https://cdn3.emoji.gg/emojis/6691-demonslayer-kyojuro2.png" width="64px" height="64px" alt="DemonSlayer_Kyojuro2"></a>
 [TIS ALL ASSIGNMENT](https://github.com/Owwwwyh/TIS-ALL-ASSIGNMENT)
-
+[DESIGN THINKING](https://github.com/Owwwwyh/Design-Thinking)
 
 <!--
 **Owwwwyh/Owwwwyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
