@@ -21,8 +21,6 @@ Insurance Agent under GREAT EASTERN LIFE INSURANCE <br>
 Bahasa Mandarin (native), Bahasa Melayu (fluent), English (fluent) <br>
 
 ## Educational Background
-<br> **~Primary Schools:** <br>
-SJK(C)Chong Eng, Kluang Johor.<br>
 
 <br> **~Secondary Schools:** <br>
 SMK Jalan Mengkibol, Kluang, Johor, Malaysia. 2017 - 2021 <br>
