@@ -12,7 +12,7 @@
   
  🔭 I’m currently studying **Software Engineering at Universiti Teknologi Malaysia**
  
- 🌱 I’m currently learning **on Python and SQL**
+ 🌱 I’m currently learning **Python and SQL**
 
  📫 How to reach me: **+6012725926** <br>
                     **owyeehao0919@gmail.com / yeehao.ow@graduate.utm.my**
