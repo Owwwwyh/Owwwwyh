@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Python and SQL**
 
- 📫 How to reach me: **+6012725926** <br>
+ 📫 How to reach me: **+60127259262** <br>
                     **owyeehao0919@gmail.com / yeehao.ow@graduate.utm.my**
 
  </div>
