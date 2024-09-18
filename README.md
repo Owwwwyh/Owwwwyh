@@ -54,7 +54,6 @@ Bahasa Mandarin (native), Bahasa Melayu (fluent), English (fluent) <br>
 ## Educational Background
 
 <br> **~Secondary Schools:** <br>
-SMK Jalan Mengkibol, Kluang, Johor, Malaysia. 2017 - 2021 <br>
 Malaysia Certificate of Education (SPM) -  9A <br>
 Malaysian University English Test (MUET)- 4.0 <br>
 
