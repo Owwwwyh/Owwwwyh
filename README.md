@@ -1,23 +1,78 @@
-### Hi there <a href="https://emoji.gg/emoji/wavegif_1860"><img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="64px" height="64px" alt="wavegif"></a>,My name is Ow Yee Hao
-<br>BIRTHDAY: 19.09.2004<br>
-<br>HOMETOWN:KLUANG,JOHOR.<br>
-<br>I am currently studying software engineering at Universiti Teknologi Malaysia.<br>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-## Skills
--2 years C++ programming experience<br>
--Basics in Python,Javascript,HTML<br>
-<a href="https://emoji.gg/emoji/8241-c-plus-plus"><img src="https://cdn3.emoji.gg/emojis/8241-c-plus-plus.png" width="64px" height="64px" alt="c_plus_plus"></a>
-<a href="https://emoji.gg/emoji/9985-python"><img src="https://cdn3.emoji.gg/emojis/9985-python.png" width="64px" height="64px" alt="python"></a>
-<a href="https://emoji.gg/emoji/2147-java"><img src="https://cdn3.emoji.gg/emojis/2147-java.png" width="64px" height="64px" alt="java"></a>
-<a href="https://emoji.gg/emoji/HTML"><img src="https://cdn3.emoji.gg/emojis/HTML.png" width="64px" height="64px" alt="HTML"></a>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yee+Hao!;" />
+</h1>
 
-## Experience
+<h3 align="center">A passionate software developer from Malaysia</h3>
+
+<br/>
+
+<div align="center">
+  
+ 🔭 I’m currently studying **Software Engineering at Universiti Teknologi Malaysia**
+ 
+ 🌱 I’m currently learning **on Python and SQL**
+
+ 📫 How to reach me: **+6012725926** <br>
+                    **owyeehao0919@gmail.com / yeehao.ow@graduate.utm.my**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="owyeehao0919@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/ow-yee-hao-4128b6328/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Owwwwyh/Owwwwyh/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<br/>
+
+## Experience other than coding
 I passed my Pre Contact for Life Insurance Agents and Investments(PCIL)Certificate in 2022 and started my agent career from that time.<br>
 Insurance Agent under GREAT EASTERN LIFE INSURANCE <br>
 (16/06/22 - Present)<br>
 <br>-Promoting and selling insurance to customers <br>
 
-## LANGUAGE
+## Language
 Bahasa Mandarin (native), Bahasa Melayu (fluent), English (fluent) <br>
 
 ## Educational Background
@@ -36,14 +91,9 @@ Foundation in Physical Science- GPA 3.99 <br>
 Universiti Teknologi Malaysia 
 (2023 - Current) <br>
 Bachelor of Software Engineering (Honours)<br>
-Currently in Year 1.
+Currently in Year 2.
 
-## More
-<br>🌱 I’m currently learning C++ and trying to master it....<br>
-<br>📫 How to reach me: +60127259262 
-                    owyeehao0919@gmail.com / yeehao.ow@graduate.utm.my
-                  <br>
-<br>😄 Pronouns: Ow but not Owl<br>
+
 
 ## Summary
 Hello there! 👋 I'm Ow Yee Hao, a passionate software engineering student at Universiti Teknologi Malaysia. My journey in programming includes 2 years of experience in C++, with a foundation in Python, Javascript, and HTML.<br>
@@ -52,9 +102,9 @@ Outside the world of coding, I've ventured into the realm of finance as an Insur
 
 Multilingualism is a key aspect of my identity, with proficiency in Bahasa Mandarin, Bahasa Melayu, and English. My educational path took me from SJK(C) Chong Eng in Kluang, Johor, through SMK Jalan Mengkibol, where I achieved outstanding results in the Malaysia Certificate of Education (SPM) and Malaysian University English Test (MUET).<br>
 
-Currently pursuing a Bachelor of Software Engineering (Honours) at UTM, I'm dedicated to mastering C++ while expanding my knowledge in other programming languages. You can reach out to me at +60127259262 or via email at owyeehao0919@gmail.com. Pronouns? Just Ow, not Owl! 😄<br>
+Currently pursuing a Bachelor of Software Engineering (Honours) at UTM, I'm dedicated to mastering C++ while expanding my knowledge in other programming languages. You can reach out to me at +60127259262 or via email at owyeehao0919@gmail.com.
 
-### All my assignment is in my resporitors,CHECK IT OUT !!!<a href="https://emoji.gg/emoji/6691-demonslayer-kyojuro2"><img src="https://cdn3.emoji.gg/emojis/6691-demonslayer-kyojuro2.png" width="64px" height="64px" alt="DemonSlayer_Kyojuro2"></a>
+### All my assignment is in my resporitors,CHECK IT OUT !!!
 [TIS ALL ASSIGNMENT](https://github.com/Owwwwyh/TIS-ALL-ASSIGNMENT) <br>
 [DESIGN THINKING](https://github.com/Owwwwyh/Design-Thinking)
 
