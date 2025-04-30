@@ -1,94 +1,122 @@
-
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yee+Hao!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+OW+YEE+HAO!;Software+Engineering+Student;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Malaysia</h3>
+<h3 align="center">🚀 Passionate Developer | 📚 Lifelong Learner | 🇲🇾 From Malaysia</h3>
 
 <br/>
 
 <div align="center">
   
- 🔭 I’m currently studying **Software Engineering at Universiti Teknologi Malaysia**
- 
- 🌱 I’m currently learning **Python and SQL**
+🔭 Currently studying **Software Engineering at Universiti Teknologi Malaysia**  
+🌱 Actively learning **Python, SQL, and Web Development**  
+📫 Reach me at: **+60127259262**  
+📧 **owyeehao0919@gmail.com** | **yeehao.ow@graduate.utm.my**  
 
- 📫 How to reach me: **+60127259262** <br>
-                    **owyeehao0919@gmail.com / yeehao.ow@graduate.utm.my**
+</div>
 
- </div>
- 
+<br/>
+
 <div align="center"> 
-  <a href="owyeehao0919@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:owyeehao0919@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ow-yee-hao-4128b6328/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Owwwwyh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<hr/>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,r" />
-    <img src="https://skillicons.dev/icons?i=python,javascript" /><br>
+  <h3>💻 Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,html,css" />
+  
+  <h3>🛠️ Tools & Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" />
+  
+  <h3>📚 Currently Learning</h3>
+  <img src="https://skillicons.dev/icons?i=sql,react,nodejs" />
 </div>
 
 <br/>
+<hr/>
+
+<h2 align="center">🎓 Education</h2>
+
+<div align="center">
+  
+| Level | Institution | Duration | Achievement |
+|-------|-------------|----------|-------------|
+| **Bachelor's Degree** | Universiti Teknologi Malaysia | 2023 - Present | Bachelor of Software Engineering (Honours) |
+| **Foundation** | Universiti Teknologi Malaysia | 07/2022 - 07/2023 | Foundation in Physical Science (GPA 3.99) |
+| **Secondary School** | SMK Jalan Mengkibol | - | SPM: 9A |
+| **Secondary School** | SMK Jalan Mengkibol | - | MUET: Band 4.0 |
+
+</div>
 
 <br/>
+<hr/>
+
+<h2 align="center">💼 Professional Experience</h2>
+
+<div align="center">
+  
+**Insurance Agent** at GREAT EASTERN LIFE INSURANCE  
+*(June 2022 - Present)*  
+✔ Promoted and sold insurance products  
+✔ Developed strong communication and sales skills  
+✔ Obtained PCIL (Pre Contract for Life Insurance Agents and Investments) Certification  
+
+</div>
 
 <br/>
+<hr/>
 
-## Experience other than coding
-I passed my Pre Contact for Life Insurance Agents and Investments(PCIL)Certificate in 2022 and started my agent career from that time.<br>
-Insurance Agent under GREAT EASTERN LIFE INSURANCE <br>
-(16/06/22 - Present)<br>
-<br>-Promoting and selling insurance to customers <br>
+<h2 align="center">🌐 Languages</h2>
 
-## Language
-Bahasa Mandarin (native), Bahasa Melayu (fluent), English (fluent) <br>
+<div align="center">
+  
+- **Bahasa Mandarin** (Native)  
+- **Bahasa Melayu** (Fluent)  
+- **English** (Fluent)  
 
-## Educational Background
+</div>
 
-<br> **~Secondary Schools:** <br>
-Malaysia Certificate of Education (SPM) -  9A <br>
-Malaysian University English Test (MUET)- 4.0 <br>
+<br/>
+<hr/>
 
-<br> **~Foundation** <br>
-Universiti Teknologi Malaysia <br>
-(07/ 2022 - 07/ 2023) <br>
-Foundation in Physical Science- GPA 3.99 <br>
+<h2 align="center">📂 Featured Projects</h2>
 
-<br> **~Bachelor Degree:** <br>
-Universiti Teknologi Malaysia 
-(2023 - Current) <br>
-Bachelor of Software Engineering (Honours)<br>
-Currently in Year 2.
+<div align="center">
+  
+[![TIS Assignments](https://github.com/Owwwwyh/TIS-ALL-ASSIGNMENT)
+[![Design Thinking](https://github.com/Owwwwyh/Design-Thinking)
 
+</div>
 
+<br/>
+<hr/>
 
-## Summary
-Hello there! 👋 I'm Ow Yee Hao, a passionate software engineering student at Universiti Teknologi Malaysia. My journey in programming includes 2 years of experience in C++, with a foundation in Python, Javascript, and HTML.<br>
+<h2 align="center">📊 GitHub Stats</h2>
 
-Outside the world of coding, I've ventured into the realm of finance as an Insurance Agent under GREAT EASTERN LIFE INSURANCE since June 2022. My role involves promoting and selling insurance products to customers, leveraging my skills in communication and persuasion.<br>
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=Owwwwyh&theme=radical&border_radius=5)  
+![Yee Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Owwwwyh&show_icons=true&theme=radical)
 
-Multilingualism is a key aspect of my identity, with proficiency in Bahasa Mandarin, Bahasa Melayu, and English. My educational path took me from SJK(C) Chong Eng in Kluang, Johor, through SMK Jalan Mengkibol, where I achieved outstanding results in the Malaysia Certificate of Education (SPM) and Malaysian University English Test (MUET).<br>
+</div>
 
-Currently pursuing a Bachelor of Software Engineering (Honours) at UTM, I'm dedicated to mastering C++ while expanding my knowledge in other programming languages. You can reach out to me at +60127259262 or via email at owyeehao0919@gmail.com.
+<br/>
+<hr/>
 
-### All my assignment is in my resporitors,CHECK IT OUT !!!
-[TIS ALL ASSIGNMENT](https://github.com/Owwwwyh/TIS-ALL-ASSIGNMENT) <br>
-[DESIGN THINKING](https://github.com/Owwwwyh/Design-Thinking)
-
-<!--
-**Owwwwyh/Owwwwyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+[![Visitors](https://komarev.com/ghpvc/?username=Owwwwyh&color=blue&style=flat)](https://github.com/Owwwwyh)
+  
+</div>
